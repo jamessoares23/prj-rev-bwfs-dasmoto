@@ -1,0 +1,46 @@
+#subtitleone {
+  font-family: Helvetica;
+  font-size:  32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+  }
+
+#subtitletwo {
+  font-family: Helvetica;
+  font-size:  32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+
+#subtitlethree {
+  font-family: Helvetica;
+  font-size:  32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+}
+
+ strong {
+font-family: Helvetica;
+font-weight: bold;
+color: blue;
+}
+
+p {
+  font-family: Helvetica;
+}
+
+h1 {
+  font-size: 100px;
+  font-family: Helvetica;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("img/pattern.jpg");
+}
+
+h3 {
+  font-family: Helvetica;
+}
